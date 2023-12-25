@@ -1,2 +1,1 @@
-# my_app
-meu projeto de app 
+![Logo do projeto](https://github.com/guilherme-nunes-x/my_app/blob/main/OIG.jpg?raw=true)
