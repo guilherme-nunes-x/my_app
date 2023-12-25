@@ -2,7 +2,7 @@
 
 # My project android
 Esse projeto é um experimento para a criação de apps android.
-
+Esse repositorio é apenas para quando começar o desenvolvimento do app
 ​
 ## 🔥 introdução
 Esse projeto tem apenas o proposito de ser um teste futuro dos conhecimentos de criação de aplicativo android
