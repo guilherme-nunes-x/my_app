@@ -4,26 +4,21 @@
 Esse projeto é um experimento para a criação de apps android.
 
 ​
-## introdução
+## 🔥 introdução
 Esse projeto tem apenas o proposito de ser um teste futuro dos conhecimentos de criação de aplicativo android
 ​
 
-## Pré-requisitos 
+### ⚙️ Pré-requisitos 
 ainda não foram definidos
 
-## Guia de instalação
+### 🔨 Guia de instalação
 ainda não foram definidos
 
-## Etapas de intalação
-ainda não foram definidos
 
-## Passo final
-ainda não foram definidos
-
-### Executando testes
+## 🛠️ Executando testes
 Como será realizado os testes
 
-## Ferramentas que serão utlizadas
+## 🗃️ Ferramentas que serão utlizadas
 
 ### Linguagens
 []
