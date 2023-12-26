@@ -1,0 +1,12 @@
+*Fontes de texto*
+=> squada one
+=> tomorrow
+
+*Cores*
+=>#f4f4f4
+=>#ffffff
+=>#ee0823
+=>#b1011b
+=>#800114
+=>#191919
+=>#031319
